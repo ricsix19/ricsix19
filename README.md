@@ -13,7 +13,7 @@ I am a passionate BSc CS student at the University of Debrecen, driven by a curi
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Java and developing applications in Java
+- 🚀 Learning Java and trying to develop applications in Java
 - 🌱 I'm currently exploring Multi Theft Auto (MTASA) Lua scripting, alongside it I'm deepening my knowledge in XML and SQL 
 
 Thanks for stopping by!
