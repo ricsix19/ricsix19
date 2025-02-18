@@ -2,7 +2,7 @@
 
 I am a passionate BSc CS student at the University of Debrecen, driven by a curiosity for technology. My journey involves delving into the world of computer science.
 
-![<ricsix19>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ricsix19's Stats](https://github-readme-stats.vercel.app/api?username=ricsix19&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
