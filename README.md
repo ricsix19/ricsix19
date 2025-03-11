@@ -15,7 +15,7 @@ I am a passionate BSc CS student at the University of Debrecen, driven by a curi
 
 - 🚀 Deepening my knowledge of Java with simple projects like my Task Manager application.
 - 🌱 I'm currently exploring JavaFX and other UI frameworks such as Tkinter.
-- Besides all of these I'm currently collaborating with my mates @MartinezHrcz and @mzsl03. We are working on a Fitness Journey Application in C#
+- Besides all of these I'm currently collaborating with my mates MartinezHrcz and mzsl03. We are working on a Fitness Journey Application in C#
 
 Thanks for stopping by!
 <!--
